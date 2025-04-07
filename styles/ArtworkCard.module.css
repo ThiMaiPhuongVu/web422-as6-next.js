@@ -1,0 +1,10 @@
+.customButton {
+    background-color: white; 
+    color: rgb(19, 54, 66);
+    
+  }
+  
+  .customButton:hover {
+    background-color:  rgb(19, 54, 66); 
+    color:white;
+  }
