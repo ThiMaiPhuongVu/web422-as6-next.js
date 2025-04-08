@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "rewrites": [
+      {
+        "source": "/api/user/(.*)",
+        "destination": "https://web422-assignment6-final-omega.vercel.app/api/user"
+      }
+    ]
+  }
